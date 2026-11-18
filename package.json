@@ -1,0 +1,9 @@
+{
+  "name": "digital-classroom-studio",
+  "version": "1.0.0",
+  "description": "Full-stack Digital Classroom & Recording Studio Slot Reservation Platform",
+  "scripts": {
+    "start:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm run dev"
+  }
+}
